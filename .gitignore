@@ -24,3 +24,9 @@ hs_err_pid*
 *.iml
 .idea/
 out/
+
+# vs code
+.vscode/
+
+# Mac OS
+.DS_Store

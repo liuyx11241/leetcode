@@ -1,7 +1,7 @@
 package com.github.liuyx11241.leetcode;
 
 /**
- * Remove Duplicates from Sorted Array
+ * 26. Remove Duplicates from Sorted Array
  * https://leetcode.com/problems/remove-duplicates-from-sorted-array/
  */
 public class Solution26 {
